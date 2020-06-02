@@ -1,5 +1,5 @@
 {
-  "name": "game-phaser-tmpl",
+  "name": "phaser2-es6-boilerplate",
   "version": "1.0.0",
   "description": "template for phaser 2.6.2",
   "main": "index.js",
